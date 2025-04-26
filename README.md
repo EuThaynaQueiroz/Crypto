@@ -76,6 +76,18 @@ Este projeto coleta informações de preços e características de criptomoedas 
 
 
 
+## 📈 Dashboard Power BI
+
+![image](https://github.com/user-attachments/assets/e11b0832-57a9-4b6a-a2a4-0792b8765496)
+
+
+![image](https://github.com/user-attachments/assets/ea8ac3a5-f7d4-4951-903b-00ce1aaecd96)
+
+
+
+
+
+
 ## 🚨 Observações
 - O script coleta no máximo 4 páginas (1000 criptos) para evitar erros de excesso de requisições (HTTP 429).
 
